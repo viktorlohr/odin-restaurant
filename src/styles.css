@@ -4,3 +4,8 @@ body {
   text-shadow: 1px 1px black;
   background-color: rebeccapurple;
 }
+
+.dish {
+  display: flex;
+  gap: 1rem;
+}
