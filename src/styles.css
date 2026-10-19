@@ -1,4 +1,6 @@
 /* styles.css */
 body {
+  color: azure;
+  text-shadow: 1px 1px black;
   background-color: rebeccapurple;
 }
